@@ -7,3 +7,6 @@
 
 ##Plotting
 [Rodeo](http://www.yhat.com/products/rodeo) - An integractive environment built for analyzing data using python
+
+##Database
+[DisGeNET](http://www.disgenet.org/web/DisGeNET/menu/home) - a comprehensive platform integrating information on human disease-associated genes and variants [10.1093/nar/gkw943](http://dx.doi.org/10.1093/nar/gkw943)
