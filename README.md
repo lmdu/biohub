@@ -5,6 +5,8 @@
 ##Gene Ontology
 [A-DaGO-Fun](http://web.cbio.uct.ac.za/ITGOM/adagofun/) - An adaptable Gene Ontology semantic similarity based functional analysis tool [10.1093/bioinformatics/btv590](http://dx.doi.org/10.1093/bioinformatics/btv590)
 
+[GOplot](https://wencke.github.io/) - an R package for visually combining expression data with functional analysis [10.1093/bioinformatics/btv30](http://dx.doi.org/10.1093/bioinformatics/btv300)
+
 ##Plotting
 [Rodeo](http://www.yhat.com/products/rodeo) - An integractive environment built for analyzing data using python
 
